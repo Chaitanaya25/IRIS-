@@ -88,5 +88,3 @@ All models achieved **high accuracy** on the test dataset due to the clear separ
 
 ---
 
-## 📂 Project Structure
-
